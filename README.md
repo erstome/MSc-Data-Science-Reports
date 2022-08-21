@@ -3,64 +3,86 @@ A repro with reports of the assignments of the master's in data science
 
 ## Courses
 1 - Introduction to Data Science <br>
-  Work 1: ****<br>
+  Assignment: **Assignment 2020/2021 - Introduction to Data Science**<br>
   Co-authored with: klismam Pereira and Luís Reis<br>
-  Description:
-  
-<!-- ### 2 - Time Series and Forecasting -->
+  Keywords: Health dataset, EDA, ETL, Machine Learning, Classification <br>
 
-2 - Parallel Computing <br>
-  Work 1: **** <br>
-  Description: <br>
   
-  Work 2: **** <br>
-  Description: <br>
+2 - Time Series and Forecasting
+  Assignment title: **Modelling and forecasting of a bridge bearing displacemnt time series**
+  keywords: Time series, Missing values, ARIMA models, Anomaly detection. <br>
 
-3 - Computer Vision <br>
-  Work title: **Computer Vision: The basics of a self-driving car** <br>
+
+3 - Parallel Computing <br>
+  Assignment 1: **All-pairs shortest path problem** <br>
+  Keywords: Distributed memory environment, C, MPI, Graphs, Shortest path problem.<br>
+  
+  Assignment 2: **Ecosystem Simulation** <br>
+  Keywords: Shared-memory environment, C, OpenMP, Ecosystem Simulation. <br>
+
+
+4 - Computer Vision <br>
+  Assignment: **Computer Vision: The basics of a self-driving car** <br>
   Co-authored with: Eduardo Morgano <br>
   Github repro: https://github.com/eamorgado/Car-Self-driving-Simulator  <br>
+  Keywords: Computer Vision, line detection, object detecton, self-driving, self-steering. <br>
 
-4 - Machine Learning <br>
-  Work 1: **** <br>
+5 - Machine Learning <br>
+  Assignment 1: **Machine Learning 2020/2021 Assignment 1** <br>
   Co-authored with: Klismam Pereira, Luís Reis and Vânia Guimarães <br>
-  Description: <br>
+  keywords: Machine Learning, Bayes Decision Boundary, Classification, Model Selection, Grid Search<br>
   
-  Work 2: **** <br>
+  Assignment 2: **Machine Learning 2020/2021 Assignment 2** <br>
   Co-authored with: Klismam Pereira, Luís Reis and Vânia Guimarães <br>
-  Description: <br>
+  Keywords: Machine Learning, Classification, Toy datasets <br>
 
-5 - Statistics and Data Analysis <br>
-  Work 1: **** <br>
+
+6 - Statistics and Data Analysis <br>
+  Assignment 1: **Pratical Assignment I: Wine Dataset** <br>
   Co-authored with: João Ferreira <br>
+  Keywords: Multivariate Data Analysis, Principal Component Analysis, Factor Analysis, Multidimensional Scaling, Wine Dataset. <br>
+  
+  Assignment 2: **Practical Assignment II: Wine Dataset** <br>
+  Co-authored with: João Ferreira <br>
+  keywords: Clustering methods, hierarchical clustering, k-means, Gaussian Mixture Models, Multinomial Logisti Regression, Linear Disciminant Analysis, Lasso, Quadratic Discriminant. <br>
 
-6 - Big Data and Cloud Computing <br>
-  Work 1: **Big Data and Cloud Computing: Assignment 1** <br>
+
+7 - Big Data and Cloud Computing <br>
+  Assignment 1: **Big Data and Cloud Computing: Assignment 1** <br>
   Co-authored with: Vânia Guimarães <br>
   Description: Creation of a web application hosted in a cloud computing platform (Google App Engine). <br>
+  Keywords: Cloud computing, Web application, Big Query, Python, Flask, Docker, AutoML, TensorFlow, Spark. <br>
   
-  Work 2: **Big Data and Cloud Computing: Assignment 2** <br>
+  Work 2: **Assignment 2: Dask vs PySpark vs Koalas vs Modin** <br>
   Co-authored with: João Ferreira, Ricardo Faria and Vânia Guimarães <br>
-  Description:  <br>
+  Keywords: Parallel computing, Dask, PySpark, Koalas, Modin, Joblib, Rapids, Performance comparsion. <br>
   
 
-7 - Data Stream Mining <br>
-  Work 1: **Assignment 1: AutoML for Stream k-Nearest Neighbours - Single-pass Self Parameter Tuning** <br>
+8 - Data Stream Mining <br>
+  Assignment 1: **AutoML for Stream k-Nearest Neighbours - Single-pass Self Parameter Tuning** <br>
   Co-authored with: Maria Ferreira <br>
-  Description: <br>
+  Keywords: AutoML, Data Streams, Python implementation, SSPT, kNN. <br>
   
-  Work 2: **Assignment2: Automated Machine Learning for Data Streams** <br>
+  Assignment 2: **Automated Machine Learning for Data Streams** <br>
   Co-authored with: Maria Ferreira <br>
   Description: State of the art of AutoML techniques for Data Streams. <br>
+  Keywords: AutoML, Data Streams, Survey. <br>
 
-8 - Data-Driven Decision Making <br>
-  Work 1: **Assignment 1: ** <br>
-  Co-authored with: Joana <br>
+9 - Data-Driven Decision Making <br>
+  Assignment 1: **Assignment 1: Facility Location** <br>
+  Co-authored with: Joana Almeida<br>
+  keywords: Optimisation, Operational Reasearch, AMPL, Python, k-Center, k-Cover.<br>
   
-  Work 2: **Assignment 2: ** <br>
+  Assignment 2: **Assignment 2: Evaluation Risk Factors in Health Care** <br>
   Co-authored with: João Carvalho <br>
-  Description: <br>
+  keywords: Machine Learning, Classification, Feature Importance<br>
   
-  Work 3: **Assignment 3: ** <br>
+  Assignment 3: **Assignment 3: Improving Kidney Exchange Programs** <br>
   Co-authored with: João Ferreira and Ricardo Faria <br>
-  Description: 
+  keywords: Optimisation, Operational Research, Machine Learning.<br>
+  
+10 - Advanced Topics in Data Science <br>
+  Assignment: **A classification system to detect questionable information** <br>
+  Co-authored with: Hélder Vieira, Klismam Pereira, Vânia Guimarães <br>
+  keywords: NLP, Machine Learning, misingormation, fake news, twitter, social media. <br>
+  
