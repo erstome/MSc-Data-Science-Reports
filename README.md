@@ -23,7 +23,7 @@ A repro with reports of the assignments of the master's in data science
 
 4 - Computer Vision <br>
   Assignment: **Computer Vision: The basics of a self-driving car** <br>
-  Co-authored with: Eduardo Morgano <br>
+  Co-authored with: Eduardo Morgado <br>
   Github repro: https://github.com/eamorgado/Car-Self-driving-Simulator  <br>
   Keywords: Computer Vision, line detection, object detection, self-driving, self-steering. <br>
 
